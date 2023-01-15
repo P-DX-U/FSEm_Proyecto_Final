@@ -1,5 +1,17 @@
 #!/bin/bash
 
+# ## #############################################################
+#
+# requirements.sh
+# Author: Brigada 3
+# License: MIT
+# Fecha: 2023-01-14
+#
+# Install the package requirements for 
+# FSEm_RaspberryPi_Videogame_Console_Project
+# and makes the directory for save the SNES roms into the Pi.
+# ## ############################################################
+
 apt update
 apt upgrade -y
 apt install software-properties-common -y
@@ -20,7 +32,14 @@ apt install antimicro -y
 
 apt install feh -y
 
-apt install git debhelper build-essential
+apt install git debhelper build-essential -y
+git clone https://github.com/rbrito/usbmount
+cd usbmount
+dpkg-buildpackage -us -uc -b
+cd ..
+apt install ./usbmount_0.0.24_all.deb -y
+rm -r usbmount
+rm com.snes9x.Snes9x.flatpakref
 
 mkdir /home/pi/ROMS
 
