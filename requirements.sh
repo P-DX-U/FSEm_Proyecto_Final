@@ -38,6 +38,8 @@ cd usbmount
 dpkg-buildpackage -us -uc -b
 cd ..
 apt install ./usbmount_0.0.24_all.deb -y
+rm -r usbmount
+rm com.snes9x.Snes9x.flatpakref
 
 mkdir /home/pi/ROMS
 
