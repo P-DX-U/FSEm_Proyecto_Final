@@ -30,3 +30,6 @@ This project aims to create an embedded system, which will be a video game conso
   * Openbox windows configuration
   * Configuration of automatic copy of roms from usb storage drive
   * Configuration of the new splash screen with sound
+  
+  # Brigada 3 authors' data
+  - Pablo González    pabliskidx9@gmail.com
