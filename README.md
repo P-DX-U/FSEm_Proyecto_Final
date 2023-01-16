@@ -37,4 +37,5 @@ This project aims to create an embedded system, which will be a video game conso
   
   - Pablo González    pabliskidx9@gmail.com
   - Alexis Rossano    rossanoalexb@gmail.com
+  - Luis Rosario      rluish.00@gmail.com
   
