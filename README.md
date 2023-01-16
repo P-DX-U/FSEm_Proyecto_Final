@@ -32,4 +32,7 @@ This project aims to create an embedded system, which will be a video game conso
   * Configuration of the new splash screen with sound
   
   # Brigada 3 authors' data
+  
+  * FSEm - 2023-1 - Grupo 2 - 2023/01/15
+  
   - Pablo González    pabliskidx9@gmail.com
