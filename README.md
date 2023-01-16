@@ -36,3 +36,5 @@ This project aims to create an embedded system, which will be a video game conso
   * FSEm - 2023-1 - Grupo 2 - 2023/01/15
   
   - Pablo González    pabliskidx9@gmail.com
+  - Alexis Rossano    rossanoalexb@gmail.com
+  
