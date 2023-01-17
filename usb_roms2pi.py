@@ -5,7 +5,7 @@
 # usb_roms2pi.py
 # Author: Pablo Gonzalez
 # License: MIT
-# Fecha: 2023-01-14
+# Date: 2023-01-14
 #
 # Copy the SNES roms in format .smc, .sfc and .zip from a usb 
 # storage drive to /home/pi/ROMS directory in the Raspberry Pi, 
