@@ -8,7 +8,7 @@ This project aims to create an embedded system, which will be a video game conso
 * Direct boot to Snes9X emulator
 * Use of generic gamepad controllers
 * Custom shortcuts to controls the console with the gamepad
-* Automatic copy of roms from usb storage drive
+* Automatic roms copy from usb storage drive
 
 # Programs and utilities needed
 
