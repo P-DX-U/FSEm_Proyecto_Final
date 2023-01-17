@@ -5,7 +5,7 @@
 # requirements.sh
 # Author: Brigada 3
 # License: MIT
-# Fecha: 2023-01-14
+# Date: 2023-01-14
 #
 # Install the package requirements for 
 # FSEm_RaspberryPi_Videogame_Console_Project
