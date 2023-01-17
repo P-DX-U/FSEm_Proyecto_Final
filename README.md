@@ -1,6 +1,6 @@
 # FSEm_RaspberryPi_Videogame_Console_Project
 
-This project aims to create an embedded system, which will be a video game console based on the emulation of SNES roms using a Raspberry Pi 3B+.
+This project aims to create an embedded system, which will be a video game console based on SNES emulation using the Raspberry Pi 3B+.
 
 # Features
 
